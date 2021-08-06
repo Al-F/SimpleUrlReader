@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleUrlReader</string>
+    <string name="person_address_placeholder">%s %s %s</string>
+</resources>
